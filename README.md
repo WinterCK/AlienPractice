@@ -3,7 +3,7 @@ SpringCloud各组件整合项目实战
 
 ### 项目下载运行
 #### 下载注册中心
-使用命令 git clone -b registry git@github.com:WinterCK/AlienPractice.git 导入项目后，使用maven打包 maven clean install 将jar包运行即可
+使用命令 `git clone -b registry git@github.com:WinterCK/AlienPractice.git` 导入项目后，使用maven打包 `maven clean install` 将jar包运行即可
 
 第一个注册中心:
 ##### java -jar eureka-serverxxx.jar --spring.profiles.active=peer1
