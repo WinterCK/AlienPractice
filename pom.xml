@@ -50,5 +50,7 @@
     </build>
     <modules>
     	<module>alien-registry</module>
+        <module>alien-consumer</module>
+        <module>alien-provider</module>
     </modules>
 </project>
