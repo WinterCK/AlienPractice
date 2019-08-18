@@ -10,6 +10,9 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+# idea
+*.iml
+
 # eclipse
 .metadata/
 .recommenders/
@@ -135,3 +138,5 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+/alien-consumer/alien-consumer.iml
+/alien-registry/alien-registry.iml
